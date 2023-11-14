@@ -21,4 +21,4 @@ A API conta com funcionalidades básicas de CRUD para as transações, criação
 
 Sávio Cardoso Caetano
 
-https://www.linkedin.com/in/savio-c-caetano/
+[![Linkedin Badge](https://img.shields.io/badge/-SavioCaetano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-c-caetano/)](https://www.linkedin.com/in/savio-c-caetano/)
